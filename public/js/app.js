@@ -1,4 +1,4 @@
-import { handleBtnConvert } from './clickEvent.js';
+import { handleBtnConvert } from './eventHandlers.js';
 
 const initPage = () => {
   // see https://developer.mozilla.org/ja/docs/Web/API/Event/preventDefault
